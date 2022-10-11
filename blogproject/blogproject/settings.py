@@ -75,11 +75,11 @@ MESSAGE_TAGS = {
 }
 
 # config E-mail
-DEFAULT_FROM_EMAIL = 'tototofumifumin@gmail.com'
+# DEFAULT_FROM_EMAIL = ''
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_POST = 587
-EMAIL_HOST_USER = 'tototofumifumin@gmail.com'
-EMAIL_HOST_PASSWORD = 'bmnqwhvzappelodn'
+# EMAIL_HOST_USER = ''
+# EMAIL_HOST_PASSWORD = ''
 EMAIL_USE_TLS = True
 
 
